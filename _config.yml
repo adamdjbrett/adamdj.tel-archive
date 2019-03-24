@@ -3,12 +3,12 @@ remote_theme: 'epidrome/cover-card'
 
 # Title and tag line
 title: 'Adam DJ Brett'
-description: 'I am Ph.D. Candidate in Critique, Image, Politics in the Department of Religion at Syracuse University.'
+description: 'I am Ph.D. Candidate in Critique, Image, Politics in the Department of Religion at Syracuse University. For more information see [adamdjbrett.com](https://adamdjbrett.com/).'
 
 # Images
 avatar: 'static/assets/images/adamdjbrett.jpg'
-background: 'static/assets/images/adamdjbrett.jpg'
-favicon: 'static/assets/images/adamdjbrett.jpg'
+background: 'static/assets/images/background.jpg'
+favicon: 'static/assets/images/favicon.ico'
 
 # Online profiles
 twitter: 'adjbx'
