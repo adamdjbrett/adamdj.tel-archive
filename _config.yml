@@ -16,6 +16,7 @@ linkedin: 'adamdjbrett'
 instagram: 'adjbx'
 github-user: 'adamdjbrett'
 blog_url: 'adjb.co'
+web_url: 'adamdjbrett.com'
 email: 'adam@adamdjbrett.com'
 #dribbble: '__USERNAME__'
 #facebook: '__USERNAME__'
@@ -34,7 +35,7 @@ email: 'adam@adamdjbrett.com'
 #vk: '__USERNAME__'
 #messenger: '__USERNAME__'
 
-social-links-order: [github-user, twitter, instagram, linkedin, blog_url, email]
+social-links-order: [github-user, twitter, instagram, linkedin, blog_url, web_url, email]
 
 # Advanced settings
 plugins:
@@ -150,6 +151,10 @@ social-links:
   - name: blog_url
     url-pattern: '__USERNAME__'
     icon-class: fas fa-2x fa-tags
+
+  - name: web_url
+    url-pattern: '__USERNAME__'
+    icon-class: fas fa-2x fa-globe
 
   - name: email
     url-scheme: 'mailto:'
