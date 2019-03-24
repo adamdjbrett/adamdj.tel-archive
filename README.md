@@ -1,5 +1,5 @@
 # [adamdj.tel](http://adamdj.tel)
-- fast mobile contact site for @adamdjbrett
+- fast mobile contact information site for @adamdjbrett
 - View [original README file](README-original.md)
 - [Cover-Card](https://github.com/epidrome/cover-card/) by [@epidrome](https://github.com/epidrome/)
 
