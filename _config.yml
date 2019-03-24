@@ -6,9 +6,9 @@ title: 'Adam DJ Brett'
 description: 'I am Ph.D. Candidate in Critique, Image, Politics in the Department of Religion at Syracuse University.'
 
 # Images
-avatar: 'adamdjbrett.jpg'
-background: 'background2.jpg'
-favicon: 'favicon.ico'
+avatar: 'static/assets/images/adamdjbrett.jpg'
+background: 'static/assets/images/adamdjbrett.jpg'
+favicon: 'static/assets/images/adamdjbrett.jpg'
 
 # Online profiles
 twitter: 'adjbx'
