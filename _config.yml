@@ -14,9 +14,9 @@ favicon: 'static/assets/images/favicon.ico'
 twitter: 'adjbx'
 linkedin: 'adamdjbrett'
 instagram: 'adjbx'
-github-user: 'adamdjbrett'
-blog_url: 'adjb.co'
-web_url: 'adamdjbrett.com'
+github: 'adamdjbrett'
+blog: 'adjb.co'
+website: 'adamdjbrett.com'
 email: 'adam@adamdjbrett.com'
 #dribbble: '__USERNAME__'
 #facebook: '__USERNAME__'
@@ -35,7 +35,7 @@ email: 'adam@adamdjbrett.com'
 #vk: '__USERNAME__'
 #messenger: '__USERNAME__'
 
-social-links-order: [github-user, twitter, instagram, linkedin, blog_url, web_url, email]
+social-links-order: [website, github, twitter, instagram, linkedin, blog, email]
 
 # Advanced settings
 plugins:
@@ -91,7 +91,7 @@ social-links:
   - name: pinterest
     url-pattern: pinterest.com/__USERNAME__
 
-  - name: github-user
+  - name: github
     url-pattern: github.com/__USERNAME__
     icon-class: fab fa-2x fa-github
 
@@ -148,11 +148,11 @@ social-links:
   - name: quora
     url-pattern: www.quora.com/profile/__USERNAME__
 
-  - name: blog_url
+  - name: blog
     url-pattern: '__USERNAME__'
     icon-class: fas fa-2x fa-tags
 
-  - name: web_url
+  - name: website
     url-pattern: '__USERNAME__'
     icon-class: fas fa-2x fa-globe
 
