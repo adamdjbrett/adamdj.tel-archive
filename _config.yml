@@ -39,7 +39,9 @@ social-links-order: [github-user, twitter, instagram, linkedin, blog_url, email]
 # Advanced settings
 plugins:
   - jekyll-remote-theme
-
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  
 # Yaml manifest of supported social links
 # Requirements:
 # `name`
