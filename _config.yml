@@ -41,7 +41,7 @@ plugins:
   - jekyll-remote-theme
   - jekyll-seo-tag
   - jekyll-sitemap
-  
+
 # Yaml manifest of supported social links
 # Requirements:
 # `name`
