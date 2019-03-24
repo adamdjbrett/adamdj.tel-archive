@@ -1,3 +1,7 @@
+--
+layout: null
+sitemap: false
+--
 # Cover Card landing page theme
 
 ## Quick set-up
