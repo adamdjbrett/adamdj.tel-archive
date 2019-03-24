@@ -2,39 +2,39 @@
 remote_theme: 'epidrome/cover-card'
 
 # Title and tag line
-title: 'My name'
-description: 'I am amazing.'
+title: 'Adam DJ Brett'
+description: 'I am Ph.D. Candidate in Critique, Image, Politics in the Department of Religion at Syracuse University.'
 
 # Images
-avatar: 'avatar.jpg'
+avatar: 'adamdjbrett.jpg'
 background: 'background.jpg'
 favicon: 'favicon.ico'
 
 # Online profiles
-dribbble: 'mydribbble'
-facebook: 'myfacebook'
-twitter: 'mytwitter'
-linkedin: 'mylinkedin'
-instagram: 'myinsta'
-pinterest: 'mypinterest'
-youtube: 'myyoutube'
-github-user: 'mygithub'
-#gitlab-user: ''
-#codepen: ''
-#steam: ''
-#soundcloud: ''
-#lastfm: ''
-#stack-overflow: ''
-#reddit: ''
-#medium:  ''
-tumblr: 'mytumblr'
-weibo: 'myweibo'
-vk: 'myvk'
-blog_url: 'myblog.blog.com'
-email: 'hello@example.com'
-messenger: 'myfbchat'
+twitter: 'adjbx'
+linkedin: 'adamdjbrett'
+instagram: 'adjbx'
+github-user: 'adamdjbrett'
+blog_url: 'adjb.co'
+email: 'adam@adamdjbrett.com'
+#dribbble: '__USERNAME__'
+#facebook: '__USERNAME__'
+#gitlab-user: '__USERNAME__'
+#codepen: '__USERNAME__'
+#pinterest: '__USERNAME__'
+#youtube: '__USERNAME__'
+#steam: '__USERNAME__'
+#soundcloud: '__USERNAME__'
+#lastfm: '__USERNAME__'
+#stack-overflow: '__USERNAME__'
+#reddit: '__USERNAME__'
+#medium:  '__USERNAME__'
+#tumblr: '__USERNAME__'
+#weibo: '__USERNAME__'
+#vk: '__USERNAME__'
+#messenger: '__USERNAME__'
 
-social-links-order: [github-user, facebook, twitter, instagram, tumblr, pinterest, linkedin, youtube, vk, weibo, dribbble, messenger, blog_url, email]
+social-links-order: [github-user, twitter, instagram, linkedin, blog_url, email]
 
 # Advanced settings
 plugins:
