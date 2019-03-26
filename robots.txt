@@ -1,0 +1,7 @@
+# adamdj.tel/
+
+# Allow crawling of all content
+User-agent: *
+Disallow:
+
+Sitemap: http://adamdj.tel/sitemap.xml
