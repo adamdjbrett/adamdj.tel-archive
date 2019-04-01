@@ -8,7 +8,7 @@ description: "I am Ph.D. Candidate in Critique, Image, Politics in the Departmen
 # Images
 avatar: 'static/assets/images/adamdjbrett.jpg'
 background: 'static/assets/images/background.jpg'
-favicon: 'static/assets/images/favicon.ico'
+favicon: 'favicon.ico'
 
 # Online profiles
 twitter: 'adjbx'
